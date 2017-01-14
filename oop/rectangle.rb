@@ -46,3 +46,5 @@ if result == 300
 else
   puts "F"
 end
+
+puts "hi"
